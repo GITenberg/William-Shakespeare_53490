@@ -1,0 +1,36 @@
+_repo: William-Shakespeare_53490
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Baillot, A. (Amédée)
+    aliases:
+    - Baillot, A. (Amedee)
+    - Baillot, Amédée
+    gutenberg_agent_id: '47397'
+    url: http://www.gutenberg.org/2009/agents/47397
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_issued: '2016-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616'
+- !lcsh 'Dramatists, English -- Early modern, 1500-1700 -- Biography'
+- !lcsh 'Stratford-upon-Avon (England) -- Biography'
+- GITenberg
+title: William Shakespeare
+url: http://www.gutenberg.org/ebooks/53490
