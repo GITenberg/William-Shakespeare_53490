@@ -1,5 +1,5 @@
 _repo: William-Shakespeare_53490
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Baillot, A. (Amédée)
@@ -8,6 +8,9 @@ contributor:
     - Baillot, Amédée
     gutenberg_agent_id: '47397'
     url: http://www.gutenberg.org/2009/agents/47397
+covers:
+- cover_type: archival
+  image_path: 53490-h/images/cover.jpg
 creator:
   author:
     agent_name: Hugo, Victor
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/85
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53490#William-Shakespeare
 gutenberg_issued: '2016-11-10'
 gutenberg_type: Text
 identifiers:
